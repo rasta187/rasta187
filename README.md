@@ -77,9 +77,8 @@ Python and Bash scripts designed to automate security tasks, such as scanning, e
 ## 📫 Contact Me
 If you'd like to collaborate, discuss cybersecurity, or share project ideas, feel free to reach out.
 
-**LinkedIn:** your-linkedin-profile  
-**Email:** your-email@example.com  
-
+**LinkedIn:** https://www.linkedin.com/in/wail-essa-b057b2245
+**Email:** siskozella88@gmail.com
 ---
 
 ### ⭐ Thanks for visiting my GitHub!
